@@ -1,10 +1,10 @@
 package com.example.lab4t27;
 
-public class Shape {
+public abstract class Shape {
     private int x;
     private int y;
 
-    public Shape{
+    public Shape(){
 
     }
 }
